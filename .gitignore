@@ -13,3 +13,16 @@ bootstrap/cache/
 
 # Rocketeer PHP task runner and deployment package. https://github.com/rocketeers/rocketeer
 .rocketeer/
+
+.idea
+.DS_Store
+.buildpath
+.project
+.settings/
+
+/www/node_modules
+/www/public/storage/*
+/www/public/packages/*
+/www/vendor/*
+Homestead.yaml
+Homestead.json
